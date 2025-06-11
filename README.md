@@ -9,10 +9,6 @@ This case study builds a predictive model to identify high-quality leads using d
 - Trained models (Logistic Regression, XGBoost) and evaluated using ROC-AUC, precision, recall  
 - Deployed model pipeline with serialized artifacts (`pickle`)
 
-**💡 Business Impact**  
-- Prioritized high-quality leads to improve conversion rates by X%  
-- Demonstrated cost savings in marketing spend through targeted outreach
-
 **🚀 Tech Stack**  
 - Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, Jupyter
 
