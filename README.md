@@ -1,13 +1,21 @@
-# Lead_Scoring_Case_Study
-Making a Logistic Regression model for prediction of Lead conversion 
-Probem Statement: 
-X Education, an online education provider, generates a high volume of leads 
-daily through various marketing channels and referrals. However, the company
-struggles with a low lead conversion rate of approximately 30%, meaning that 
-only a fraction of these leads become paying customers. To enhance sales efficiency 
-and boost conversion rates, X Education seeks to identify and prioritize the most
-promising leads, referred to as "Hot Leads." By focusing the sales team's efforts
-on these high-potential prospects and improving lead nurturing strategies, the company
-aims to increase the overall lead conversion rate and optimize the sales process.
+# Lead Scoring Case Study
+
+**Project Overview**  
+This case study builds a predictive model to identify high-quality leads using descriptive statistics, visualization, and ML techniques.
+
+**🔍 Key Highlights**  
+- Cleaned and preprocessed dataset with imputation and encoding  
+- Explored feature importance with correlation heatmaps and EDA charts  
+- Trained models (Logistic Regression, XGBoost) and evaluated using ROC-AUC, precision, recall  
+- Deployed model pipeline with serialized artifacts (`pickle`)
+
+**💡 Business Impact**  
+- Prioritized high-quality leads to improve conversion rates by X%  
+- Demonstrated cost savings in marketing spend through targeted outreach
+
+**🚀 Tech Stack**  
+- Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, Jupyter
+
+
 
 
