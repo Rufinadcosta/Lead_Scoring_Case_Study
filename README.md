@@ -10,4 +10,4 @@ promising leads, referred to as "Hot Leads." By focusing the sales team's effort
 on these high-potential prospects and improving lead nurturing strategies, the company
 aims to increase the overall lead conversion rate and optimize the sales process.
 
-Project done by: Rufina D Costa, Robinson Kotam and Ruchir Rastogi
+
